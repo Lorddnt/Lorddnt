@@ -7,7 +7,7 @@
 - Facebook: https://web.facebook.com/lorddnt/
 - LinkedIn: https://www.linkedin.com/in/david-o-awoke-872ba057/
 - Twitter: https://twitter.com/DavidAwoke
-- 
+- Portfolio: https://finddavidawoke.netlify.app/
 - 
 
 
